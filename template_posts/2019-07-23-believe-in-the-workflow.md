@@ -1,10 +1,10 @@
----
+<!-- ---
 layout: post
 title:  Believe in the workflow
 date:   2019-07-24 15:01:35 +0300
 image:  '/assets/img/02.jpg'
 tags:   [switzerland, heels, chair, blog]
----
+--- -->
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
 Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
