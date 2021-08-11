@@ -1,14 +1,14 @@
 title: Preston Ching
-logo:  # you can add own logo.
+logo: 'site_logo.png' # you can add own logo.
 description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "prestonching.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
   name: Preston Ching
-  image: '/assets/img/01.jpg'
+  image: '/assets/img/Profile_Pic.jpg'
   job: Independent Product Designer
   bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
   email: prestonching7@gmail.com
@@ -25,7 +25,7 @@ contact:
 
 
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: # add your shortname for Disqus Comment. For example mr-brown
 
 
 # Google Analytics
