@@ -2,7 +2,7 @@ title: Preston Ching
 logo: 'android-chrome-192x192.png' # you can add own logo.
 description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "prestonching.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
