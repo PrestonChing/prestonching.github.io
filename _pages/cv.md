@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About Me
-permalink: /about/
-image: '/assets/img/About_Me.jpg'
+title: CV
+permalink: /cv/
 ---
 
 My name is Preston Ching. I am far from being called a multi-hyphenate but my interests are admittedly multi-disciplinary and diverse. I strive for Pi-shaped skills (P stands for Pi too), extending from the traditional T-shaped concept. 
