@@ -46,4 +46,8 @@
   ol li {
     margin-bottom: 15px;
   }
+  p + ul li{
+    margin-top: 0;
+    margin-bottom: 45px;
+}
 }
