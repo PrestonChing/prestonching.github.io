@@ -41,13 +41,13 @@ Ching, P.Y.J, Tan, I. & Kowshik, M. (2013). **Investigation of the Affinity of A
 
 ## Professional Experience
 
-2021: **Harvard-Salesforce Econ-CS Group**, Cambridge, USA
-2021: **Harvard Teamcore Group**, Cambridge, USA
-2020: **Analysis Group**, Boston, USA
-2020: **Ministry of Trade and Industry (FSPD)**, Singapore
-2019: **Francis Diebold "Friday Morning Metrics"**, Philadelphia, USA
-2019: **Infocomm Media Developement Authority**, Singapore
-2019: **Wharton Analytics Fellowship**, Philadelphia, USA
-2018: **Lool Ventures, Tel Aviv**, Israel
-2018: **Ministry of Trade and Industry (RED)**, Singapore
+2021: **Harvard-Salesforce Econ-CS Group**, Cambridge, USA  
+2021: **Harvard Teamcore Group**, Cambridge, USA  
+2020: **Analysis Group**, Boston, USA  
+2020: **Ministry of Trade and Industry (FSPD)**, Singapore  
+2019: **Francis Diebold "Friday Morning Metrics"**, Philadelphia, USA  
+2019: **Infocomm Media Developement Authority**, Singapore  
+2019: **Wharton Analytics Fellowship**, Philadelphia, USA  
+2018: **Lool Ventures, Tel Aviv**, Israel  
+2018: **Ministry of Trade and Industry (RED)**, Singapore  
 2014: **Insitute of Materials Research and Engineering**, Singapore
