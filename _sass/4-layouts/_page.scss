@@ -46,10 +46,12 @@
   ul li,
   ol li {
     margin-bottom: 15px;
+    line-height: 25px;
     color: $gray;
   }
   p + ul li {
     margin-bottom: 35px;
+    line-height: 25px;
     color: $gray;
 }
 }
