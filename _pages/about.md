@@ -5,7 +5,7 @@ permalink: /about/
 image: '/assets/img/About_Me.jpg'
 ---
 
-My name is Preston Ching. I am far from being called a multi-hyphenate but my interests are admittedly multi-disciplinary and diverse. I strive for π-shaped skills (<img src="{{site.baseurl}}/assets/img/favicon-32x32.png" width="30"/> stands for π too), extending from the traditional T-shaped concept. 
+My name is Preston Ching. I am far from being called a multi-hyphenate but my interests are admittedly multi-disciplinary and diverse. I strive for π-shaped skills (logo stands for π too), extending from the traditional T-shaped concept. 
 
 
 I am passionate about the interface between my two self-professed deep expertises in economics and artificial intelligence. Both fields generate profound ripples in our society and stand to leverage synergies with increasing communication. AI applied to macroeconomics brings us closer to theoretically-sound and well-predictive models for policy-makers. Demands for tractability in econometrics push AI models towards greater interpretability and algorithmic fairness. Along with cross-discipline insights (from philosophy, sociology and psychology), the Econ x AI domain serves to better inform and implement policies for tackling inequality and climate change amongst others. Check out my research and CV here. 
