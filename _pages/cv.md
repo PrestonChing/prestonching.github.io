@@ -23,6 +23,8 @@ Ching, P.Y.J., & Wang, K. (2021). **Reinforcement Learning for Network Security 
 
 Ching, P.Y.J., Hedman, M., Luu, N. & Schafer, O. (2021). **Submarket Bayesian Hierarchical Modeling for Real Estate Index**. *Consulted for REX Homes.*
 
+Ching, P.Y.J., Fullen, K. & Lim, A. (2020). **Cache Efficient Value Iteration**.
+
 Ching, P.Y.J., Todd, P. & Vasey, G. (2020). **Mincer Earnings Model on Mexico 2010 Census Data**.
 
 Ching, P.Y.J., Calvo-Fullana, M. & Ribeiro, A. (2019). **Reinforcement Learning through Coupled Optimization: A Linear Policy Case**.
