@@ -4,8 +4,26 @@ title: CV
 permalink: /cv/
 ---
 
-My name is Preston Ching. I am far from being called a multi-hyphenate but my interests are admittedly multi-disciplinary and diverse. I strive for Pi-shaped skills (P stands for Pi too), extending from the traditional T-shaped concept. 
+## Education
 
-I am passionate about the interface between my two self-professed deep expertises in economics and artificial intelligence. Both fields generate profound ripples in our society and stand to leverage synergies with increasing communication. AI applied to macroeconomics brings us closer to theoretically-sound and well-predictive models for policy-makers. Demands for tractability in econometrics push AI models towards greater interpretability and algorithmic fairness. Along with cross-discipline insights (from philosophy, sociology and psychology), the Econ x AI domain serves to better inform and implement policies for tackling inequality and climate change amongst others. Check out my research and CV here. 
+**Harvard University**, Cambridge, USA <div style="text-align: right"> Aug 2020 - May 2021 </div>
+> M.S. in Computational Science Engineering
 
-I am also a huge fan of hiking and traveling. I  have meandered through the world’s driest desert (Atacama), scaled the ice-capped “top of Europe” (Jungfraujoch) and dipped into the world’s lowest water body (Dead Sea). My forms of escapism are reading and music. I love fiddling around with my Fender Stratocaster and occasionally air drumming, to my neighbours’ dismay. 
+**University of Pennsylvania**, Philadelphia, USA <div style="text-align: right"> Aug 2017 - May 2020 </div>
+> B.A. in Economics and B.S.E. in Systems Engineering
+
+---
+
+## Publications & Projects
+
+> Test
+
+> Test 2
+
+---
+
+## Professional Experience
+
+> Test
+
+> Test 2
