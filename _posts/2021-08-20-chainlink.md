@@ -2,7 +2,7 @@
 layout: post
 title:  Chainlink - The Missing Link to Blockchain?
 image:  '/assets/img/Chainlink.png'
-caption: 'Image Source: chain.link/solutions'
+caption: '[Image Source: chain.link/solutions]'
 tags:   tech blockchain
 ---
 
