@@ -10,7 +10,7 @@ layout: default
       <h1 class="tag__title">{{ page.tag }}</h1>
     </div>
 
-    {% for post in page.posts %}
+    {% for post in site.tags[page.tag] %}
     <!-- begin article -->
     <div class="article" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="800">
       {% if post.image %}
