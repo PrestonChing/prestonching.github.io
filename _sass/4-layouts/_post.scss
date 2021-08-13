@@ -261,15 +261,15 @@
 }
 
 .share__link svg {
-  width: 21px;
-  height: 21px;
-  fill: $gray-lighten;
+  width: 40px;
+  height: 40px;
+  fill: $dark;
   transition: fill 200ms;
 }
 
 .share__link:hover {
   svg {
-    fill: $dark;
+    fill: $gray-lighten;
   }
 }
 
