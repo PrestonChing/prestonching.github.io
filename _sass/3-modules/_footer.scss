@@ -11,6 +11,7 @@
 
 .contact {
   text-align: center;
+  margin-bottom: 30px;
 }
 
 .contact__title {
@@ -28,7 +29,6 @@
 .contact__item {
   display: inline-block;
   margin-right: 30px;
-  margin-bottom: 30px;
   &:last-child {
     margin-right: 0;
   }
