@@ -20,10 +20,10 @@ layout: default
     </div>
 
     {% if page.tags.size >= 1 %}
-    <div class="post-tags">
+    <div class="article__tags">
       Tags:  
       {% for tag in page.tags %}
-      <a href="{{ site.baseurl }}/tag/{{ tag }}" class="post-tags__tag">{{ tag }}</a>
+      <a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>
       {% endfor %}
     </div>
     {% endif %}
