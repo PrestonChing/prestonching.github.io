@@ -1,4 +1,4 @@
 ---
 layout: tag-page
-tag: essentials
+tag: tech
 ---
