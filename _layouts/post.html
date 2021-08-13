@@ -21,7 +21,7 @@ layout: default
 
     {% if page.tags.size >= 1 %}
     <div class="post-tags">
-      <p>Tags: </p>
+      Tags: 
       {% for tag in page.tags %}
       <a href="{{ site.baseurl }}/tag/{{ tag }}" class="post-tags__tag">{{ tag }}</a>
       {% endfor %}
@@ -29,7 +29,7 @@ layout: default
     {% endif %}
 
     <div class="post__share">
-      <p>Share: </p>
+      Share: 
       <ul class="share__list list-reset">
         <li class="share__item">
           <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}"
