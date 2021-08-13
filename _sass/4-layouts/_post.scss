@@ -14,7 +14,7 @@
 
 .post__title {
   margin-bottom: 10px;
-  font-size: 40px;
+  font-size: 43px;
   line-height: 55px;
 }
 
@@ -42,7 +42,7 @@
 .post__content {
   margin-bottom: 45px;
   p {
-    font-size: 15px;
+    font-size: 16px;
     line-height: 32px;
     color: $gray;
     img {
@@ -51,7 +51,9 @@
   }
   ul li,
   ol li {
+    font-size: 16px;
     margin-bottom: 15px;
+    line-height: 32px;
     color: $gray;
   }
 }
