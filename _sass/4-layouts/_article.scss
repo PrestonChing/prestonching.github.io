@@ -36,6 +36,16 @@
   }
 }
 
+.article__tags {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 27px;
+  color: $gray;
+  &:hover {
+    color: $primary-color;
+  }
+}
+
 .article__meta {
   margin-bottom: 15px;
   font-family: 'IBM Plex Mono', monospace;
