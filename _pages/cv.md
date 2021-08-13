@@ -43,7 +43,7 @@ Ching, P.Y.J, Tan, I. & Kowshik, M. (2013). **Investigation of the Affinity of A
 
 ## Professional Experience
 
-2021: **Harvard-Salesforce Econ-CS Group**, Cambridge, USA  
+2021: **Harvard-Salesforce EconCS Group**, Cambridge, USA  
 2021: **Harvard Teamcore Group**, Cambridge, USA  
 2020: **Analysis Group**, Boston, USA  
 2020: **Ministry of Trade and Industry (FSPD)**, Singapore  
