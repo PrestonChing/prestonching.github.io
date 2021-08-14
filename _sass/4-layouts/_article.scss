@@ -37,15 +37,10 @@
 }
 
 .article__tags {
-  margin-top: 30px;
   margin-bottom: 15px;
   font-weight: 400;
   font-size: 16px;
   line-height: 27px;
-  color: $gray;
-  &:hover {
-    color: $primary-color;
-  }
 }
 
 .article__meta {
