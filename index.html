@@ -51,9 +51,9 @@ layout: default
 </div>
 
 {% if paginator.total_pages > 1 %}
-<div class="pagination">
+<div class="pagination" style="margin: 0 auto;">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}"><span style="text-align:center">&laquo; Newer</span></a>
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Newer</a>
   {% else %}
     <span>&laquo; Newer</span>
   {% endif %}
@@ -62,14 +62,14 @@ layout: default
     {% if page == paginator.page %}
       <em>{{ page }}</em>
     {% elsif page == 1 %}
-      <a href="{{ '/' | relative_url }}"><span style="text-align:center">{{ page }}</span></a>
+      <a href="{{ '/' | relative_url }}">{{ page }}</a>
     {% else %}
-      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}"><span style="text-align:center">{{ page }}</span></a>
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
     {% endif %}
   {% endfor %}
 
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url }}"><span style="text-align:center">Older &raquo;</span></a>
+    <a href="{{ paginator.next_page_path | relative_url }}">Older &raquo;</a>
   {% else %}
     <span>Older &raquo;</span>
   {% endif %}
