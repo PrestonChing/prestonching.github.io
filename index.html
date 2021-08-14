@@ -50,7 +50,7 @@ layout: default
   {% endif %}
 
   {% if paginator.total_pages > 1 %}
-  <div class="pagination" style="margin: auto">
+  <div class="pagination" style="margin: 0 auto;" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="800">
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Newer</a>
     {% else %}
