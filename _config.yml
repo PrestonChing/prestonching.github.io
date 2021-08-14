@@ -38,9 +38,11 @@ permalink: pretty
 plugins:
   - jekyll-sitemap
   - jekyll/tagging
-  - jekyll-paginate
+  - jekyll-paginate-v2
 
-paginate:3
+pagination:
+  enabled: true
+  per_page: 3
 
 # Pages Path
 defaults:
