@@ -38,6 +38,9 @@ permalink: pretty
 plugins:
   - jekyll-sitemap
   - jekyll/tagging
+  - jekyll-paginate
+
+paginate: 5
 
 # Pages Path
 defaults:
