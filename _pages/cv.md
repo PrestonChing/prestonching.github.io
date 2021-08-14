@@ -19,7 +19,7 @@ B.A. in Economics and B.S.E. in Systems Engineering
 
 ## Publications & Projects
 
-Ching, P.Y.J., & Wang, K. (2021). **Reinforcement Learning for Network Security Games**.
+Ching, P.Y.J., & Wang, K. (2021). **Reinforcement Learning with Graph Neural Networks for Network Security Games**.
 
 Ching, P.Y.J., Hedman, M., Luu, N. & Schafer, O. (2021). **Submarket Bayesian Hierarchical Modeling for Real Estate Index**. *Consulted for REX Homes.*
 
