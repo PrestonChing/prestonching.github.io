@@ -24,6 +24,7 @@
   display: inline-block;
   margin-left: 30px;
   .nav__link {
+    text-decoration: none;
     color: $dark;
   }
 }
@@ -84,6 +85,7 @@
     max-height: 50vh;
     overflow: auto;
     .nav__item {
+      text-decoration: none;
       display: block;
       margin-left: 0;
       margin-bottom: 30px;
