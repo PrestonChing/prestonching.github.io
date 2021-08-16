@@ -20,7 +20,7 @@ Back in 2018, I started dabbling with smart contract programming, as part of due
 
 A blockchain in and of itself does not radically change the world. Smart contracts do. The ideal smart contract bypasses the middleman, processes verified data from the real world and automatically executes the terms of agreement based on pre-defined conditions. The myriad of industry use cases extend beyond traditional finance to the supply chain ecosystem, governmental voting systems and healthcare. Smart contracts serve to reduce fraud, increase transparency and optimize efficiency. 
 
-![]({{site.baseurl}}/assets/img/Mckinsey_blockchain.png)<i>Value impact of blockchain by industry. [Source: McKinsey]</i>
+![]({{site.baseurl}}/assets/img/Mckinsey_blockchain.png)*Value impact of blockchain by industry. [Source: McKinsey]*
 
 ---
 
@@ -36,7 +36,7 @@ Layer-two (L2) solutions are secondary protocols and frameworks established over
 
 The kaleidoscope of chains for greater scalability and speed significantly contributed to the burgeoning Ethereum L2 ecosystem. That said, [fragmentation and the lack of interoperability](https://eprint.iacr.org/2019/1128.pdf) amongst these chains invariably limits composability and the potential of crowdsourced innovation. There is no strength without unity. 
 
-![]({{site.baseurl}}/assets/img/Ethereum_L2.jpeg)<i>Ethereum Layer-2 Ecosystem. [Source: DeversiFi]</i>
+![]({{site.baseurl}}/assets/img/Ethereum_L2.jpeg)*Ethereum Layer-2 Ecosystem. [Source: DeversiFi]*
 
 Lastly, smart contracts on the main blockchain alone lack connectivity and access to real-world data required to validate the terms of agreement. Oracles are third-party services established to bridge this gap but poorly-designed oracles are prone to man-in-the-middle attacks upon validation of external data. This [“oracle problem”](https://www.mdpi.com/2078-2489/11/11/509) is partly due to the issue of greater centralization in conventional designs. 
 
@@ -51,7 +51,7 @@ As the world’s largest and most reliable oracle network in DeFi, [Chainlink](h
 2. Provide **trust-minimized off-chain computation** with the Keeper Network (automation bots), Off Chain Reporting (aggregating responses from oracle nodes) and Verifiable Randomness Function (secured source of randomness for NFTs and consensus protocols)
 3. Interoperate the L2 ecosystem for a multi-chain future with the recently announced **Cross Chain Interoperability Protocol** (CCIP), allowing for new kinds of dApps ranging from NFT bridges to cross-chain collateral and yield optimization 
 
-![]({{site.baseurl}}/assets/img/CCIP.png)<i>CCIP across public and private blockchains. [Source: Chainlink]</i>
+![]({{site.baseurl}}/assets/img/CCIP.png)*CCIP across public and private blockchains. [Source: Chainlink]*
 
 Chainlink also tackles the tension between privacy and transparency in hybrid smart contracts. Chainlink oracles can evaluate individuals and report results to insurance companies without divulging personal data. In the data marketplace, the oracle network can test the quality of the data using the buyer’s algorithm without giving access to both the actual data and algorithm for either parties. 
 
