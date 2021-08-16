@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Chainlink - The Missing Link to Blockchain?
+title:  Chainlink - The Missing Link to Blockchain's Hegemony?
 image:  '/assets/img/Chainlink.png'
 caption: '[Image Source: chain.link/solutions]'
 tags:   tech blockchain
