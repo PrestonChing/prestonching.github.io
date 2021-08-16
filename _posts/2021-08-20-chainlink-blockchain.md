@@ -36,7 +36,7 @@ Layer-two (L2) solutions are secondary protocols and frameworks established over
 
 The kaleidoscope of chains for greater scalability and speed significantly contributed to the burgeoning Ethereum L2 ecosystem. That said, [fragmentation and the lack of interoperability](https://eprint.iacr.org/2019/1128.pdf) amongst these chains invariably limits composability and the potential of crowdsourced innovation. There is no strength without unity. 
 
-[insert Ethereum L2 ecosystem picture]
+![]({{site.baseurl}}/assets/img/Ethereum_L2.jpeg)*Ethereum Layer-2 Ecosystem. [Source: DeversiFi]*
 
 Lastly, smart contracts on the main blockchain alone lack connectivity and access to real-world data required to validate the terms of agreement. Oracles are third-party services established to bridge this gap but poorly-designed oracles are prone to man-in-the-middle attacks upon validation of external data. This [“oracle problem”](https://www.mdpi.com/2078-2489/11/11/509) is partly due to the issue of greater centralization in conventional designs. 
 
@@ -47,11 +47,11 @@ Lastly, smart contracts on the main blockchain alone lack connectivity and acces
 Decentralized oracle networks (DONs) solve the “oracle problem” using a committee of off-chain independent oracle nodes with consensus protocols for data validation, providing greater reliability and tamper-resistance. These DONs serve to augment on-chain smart contracts with storage, computation and networking functionalities to external data sources or APIs. This profound hybrid combination with DONs has the potential to propel smart contracts towards unparalleled connectivity and scalability. 
 
 As the world’s largest and most reliable oracle network in DeFi, [Chainlink](https://chain.link/solutions) strives to: 
-1. Enable smart contracts with access to highly validated data and interoperability in global markets
-2. Provide trust-minimized off-chain computation with the Keeper Network (automation bots), Off Chain Reporting (aggregating responses from oracle nodes) and Verifiable Randomness Function (secured source of randomness for NFTs and consensus protocols)
-3. Interoperate the L2 ecosystem for a multi-chain future with the recently announced Cross Chain Interoperability Protocol (CCIP), allowing for new kinds of dApps ranging from NFT bridges to cross-chain collateral and yield optimization 
+1. Enable smart contracts with **access to highly validated data** and interoperability in global markets
+2. Provide **trust-minimized off-chain computation** with the Keeper Network (automation bots), Off Chain Reporting (aggregating responses from oracle nodes) and Verifiable Randomness Function (secured source of randomness for NFTs and consensus protocols)
+3. Interoperate the L2 ecosystem for a multi-chain future with the recently announced **Cross Chain Interoperability Protocol** (CCIP), allowing for new kinds of dApps ranging from NFT bridges to cross-chain collateral and yield optimization 
 
-[insert Chainlink diagram?]
+![]({{site.baseurl}}/assets/img/CCIP.png)*CCIP across public and private blockchains. [Source: Chainlink]*
 
 Chainlink also tackles the tension between privacy and transparency in hybrid smart contracts. Chainlink oracles can evaluate individuals and report results to insurance companies without divulging personal data. In the data marketplace, the oracle network can test the quality of the data using the buyer’s algorithm without giving access to both the actual data and algorithm for either parties. 
 
