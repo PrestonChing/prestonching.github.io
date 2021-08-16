@@ -20,7 +20,7 @@ Back in 2018, I started dabbling with smart contract programming, as part of due
 
 A blockchain in and of itself does not radically change the world. Smart contracts do. The ideal smart contract bypasses the middleman, processes verified data from the real world and automatically executes the terms of agreement based on pre-defined conditions. The myriad of industry use cases extend beyond traditional finance to the supply chain ecosystem, governmental voting systems and healthcare. Smart contracts serve to reduce fraud, increase transparency and optimize efficiency. 
 
-![]({{site.baseurl}}/assets/img/Mckinsey_blockchain.png)**Value impact of blockchain by industry. [Source: McKinsey]**
+![]({{site.baseurl}}/assets/img/Mckinsey_blockchain.png)*Value impact of blockchain by industry. [Source: McKinsey]*
 
 ---
 
