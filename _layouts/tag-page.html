@@ -33,7 +33,7 @@ layout: default
         </div>
         {% endif %}
         <p class="article__excerpt">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncate: 130 }}{% endif %}</p>
-        <a href="{{ post.url | prepend: site.baseurl }}" class="read-more">Read the rest</a>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="read-more">Read more</a>
       </div>
     </div>
     <!-- end article -->
