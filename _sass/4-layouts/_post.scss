@@ -55,6 +55,9 @@
     line-height: 32px;
     color: $gray;
   }
+  a {
+    text-decoration: underline;
+  }
 }
 
 .post__caption {
