@@ -65,9 +65,9 @@
   a {
     text-decoration: underline $primary-color 2px;
     color: $gray;
-    // &:hover {
-    //   text-decoration: underline $dark 2px;
-    // }
+    &:hover {
+      text-decoration: underline $dark 2px;
+    }
   }
 }
 
