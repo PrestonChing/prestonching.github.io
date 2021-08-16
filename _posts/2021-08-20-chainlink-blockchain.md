@@ -20,6 +20,7 @@ A blockchain in and of itself does not radically change the world. Smart contrac
 
 [insert McKinsey industry value add picture]
 
+---
 
 ## So what is slowing the ascent of smart contracts?
 
