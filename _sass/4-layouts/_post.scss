@@ -56,6 +56,13 @@
     line-height: 32px;
     color: $gray;
   }
+  a {
+    text-decoration: underline $primary-color 2px;
+    color: $gray;
+    &:hover {
+      text-decoration: underline $dark 2px;
+    }
+  }
 }
 
 .post__caption {
