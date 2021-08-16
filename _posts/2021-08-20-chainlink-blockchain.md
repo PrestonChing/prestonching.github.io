@@ -16,11 +16,11 @@ Back in 2018, I started dabbling with smart contract programming, as part of due
 
 ## What is blockchain’s place in society today?
 
-<a href="https://www.crunchbase.com/person/sergey-nazarov">Sergey Nazarov</a>, CEO at Chainlink, astutely identified the issues with the world’s current model of brand-based trust. Inevitable misjudgment from central authorities leads to mismanaged policies for facilitating economic growth and controlling inflation. Promises of liquidity and transparency occasionally fail, evidenced by the recent systemic failures and [outages from Robinhood](https://www.cnbc.com/2021/06/30/robinhood-to-pay-70-million-for-misleading-customers-and-outages-the-largest-finra-penalty-ever.html). This points to the need for math-based trust, pivoting towards cryptographic truth empowered by blockchains. The underlying [decentralized ledger technology](https://www.mas.gov.sg/development/fintech/technologies---blockchain-and-dlt) seeks to prevent aberrant behavior from any individual entity attempting to subvert the system. 
+[Sergey Nazarov](https://www.crunchbase.com/person/sergey-nazarov), CEO at Chainlink, astutely identified the issues with the world’s current model of brand-based trust. Inevitable misjudgment from central authorities leads to mismanaged policies for facilitating economic growth and controlling inflation. Promises of liquidity and transparency occasionally fail, evidenced by the recent systemic failures and [outages from Robinhood](https://www.cnbc.com/2021/06/30/robinhood-to-pay-70-million-for-misleading-customers-and-outages-the-largest-finra-penalty-ever.html). This points to the need for math-based trust, pivoting towards cryptographic truth empowered by blockchains. The underlying [decentralized ledger technology](https://www.mas.gov.sg/development/fintech/technologies---blockchain-and-dlt) seeks to prevent aberrant behavior from any individual entity attempting to subvert the system. 
 
 A blockchain in and of itself does not radically change the world. Smart contracts do. The ideal smart contract bypasses the middleman, processes verified data from the real world and automatically executes the terms of agreement based on pre-defined conditions. The myriad of industry use cases extend beyond traditional finance to the supply chain ecosystem, governmental voting systems and healthcare. Smart contracts serve to reduce fraud, increase transparency and optimize efficiency. 
 
-[insert McKinsey industry value add picture]
+![]({{site.baseurl}}/assets/img/Mckinsey_blockchain.png)**Value impact of blockchain by industry. [Source: McKinsey]**
 
 ---
 
