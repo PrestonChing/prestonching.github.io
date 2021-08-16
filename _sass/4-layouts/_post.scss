@@ -45,7 +45,7 @@
     line-height: 32px;
     margin-bottom: 45px;
     color: $gray;
-    img em {
+    img i {
       margin: 30px 0;
       margin-bottom: 45px;
       font-size: 12px;
@@ -65,9 +65,9 @@
   a {
     text-decoration: underline $primary-color 2px;
     color: $gray;
-    &:hover {
-      text-decoration: underline $dark 2px;
-    }
+    // &:hover {
+    //   text-decoration: underline $dark 2px;
+    // }
   }
 }
 
