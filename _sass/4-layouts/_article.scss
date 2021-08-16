@@ -26,6 +26,7 @@
 .article__title {
   margin: 0;
   a {
+    text-decoration: none;
     font-size: 30px;
     font-weight: 400;
     line-height: 38px;
@@ -37,6 +38,7 @@
 }
 
 .article__tags {
+  text-decoration: none;
   margin-bottom: 15px;
   font-weight: 400;
   font-size: 16px;

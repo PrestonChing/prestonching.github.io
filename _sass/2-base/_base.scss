@@ -102,7 +102,7 @@ img {
 }
 
 a {
-    text-decoration: none;
+    text-decoration: underline $primary-color;
     color: $primary-color;
     transition: color 200ms;
 
