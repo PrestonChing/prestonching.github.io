@@ -31,7 +31,6 @@ disqus-identifier: # add your shortname for Disqus Comment. For example mr-brown
 # Google Analytics
 google-analytics: UA-205055388-1 # add your identifier. For example UA-99631805-1.
 
-
 # Build settings
 markdown: kramdown
 permalink: pretty
