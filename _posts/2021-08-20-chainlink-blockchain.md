@@ -6,7 +6,7 @@ caption: '[Image Source: chain.link/solutions]'
 tags:   tech blockchain
 ---
 
-*This is the first article of a 3-part series on my reflections from Smart Contract Summit 2021. Check out the <a href="{{site.baseurl}}/2021/08/20/chainlink-blockchain/">second</a> article.*
+*This is the first article of a 3-part series on my reflections from Smart Contract Summit 2021. Check out the <a href="{{site.baseurl}}/2021/08/27/development-economics-smart-contracts/">second</a> article.*
 
 ---
 
