@@ -28,13 +28,9 @@ With the value proposition of semiconductors clearly indisputable, it is now eas
 
 ![]({{site.baseurl}}/assets/img/semicon-supply-chain.png)*Semiconductors Supply Chain. [Source: Business Times Singapore]*
 
----
-
 ## The US has a strategic advantage in Semiconductors.
 
 Starting from the first stage, wafer manufacturing is mainly produced by companies in Japan and South Korea. American companies are leading players in the high value-add circuit design space such as fabless [Qualcomm](https://www.theverge.com/2021/6/28/22550723/qualcomm-snapdragon-888-plus-cpu-ai-performance-mwc-2021) for smartphone system on chips, [NVIDIA and AMD](https://www.fool.com/investing/2021/06/06/better-buy-advanced-micro-devices-vs-nvidia/) for graphics chips. [Dutch ASML](https://www.brookings.edu/techstream/the-chip-making-machine-at-the-center-of-chinese-dual-use-concerns/) wields the exclusive expertise in extreme ultraviolet-lithography (EUV) necessary for the most advanced fine circuit printing. A single EUV machine comprises more than 100,000 parts and costs up to $120 million. [Taiwanese TSMC](https://www.tsmc.com/english/aboutTSMC/company_profile) is the world's largest pure-play foundry, producing chips for Apple and upstream fabless chip designers. Integrated device manufacturers (IDMs) sit across the entire supply chain. CPUs and FPGAs are dominated by Intel, specialty chemicals chips by Japan and memory chips by [Micron, Samsung and SK Hynix](https://www.thebusinessresearchcompany.com/report/memory-chips-global-market-report). Therefore, the US holds significant leverage in rallying domestic companies and allies for political purposes - evidenced by various effective chip sanctions on Chinese companies.
-
----
 
 ## What is China's game plan for Semiconductors?
 
@@ -49,8 +45,6 @@ While China is still behind the US alliance in CPUs, FPGAs and 5nm fabrication, 
 China's domestic crude oil consumption stands at approximately [14,000 barrels/day](https://www.ceicdata.com/en/indicator/china/oil-consumption), of which 70% is imported. The Middle East accounts for [close to half of these imports](https://www.worldstopexports.com/top-15-crude-oil-suppliers-to-china/) and a majority of imported crude oil flows through the Straits of Malacca. Dubbed as the ["Malacca Dilemma"](https://bpr.berkeley.edu/2019/08/26/the-malacca-dilemma-a-hindrance-to-chinese-ambitions-in-the-21st-century/), potential political conflicts in the straits would significantly cripple China's crude oil supply, and in turn economic and military strength. Hence, China established the [Belt and Road Initiative](https://green-bri.org/china-belt-and-road-initiative-bri-investment-report-2020/) (BRI) to secure overland oil and gas pipelines amongst other infrastructural projects. The $62 billion [China-Pakistan Economic Corridor](http://cpec.gov.pk/) secures oil supply from Gwadar Port (with strategic military importance as well) to the Kashgar economic zone, amounting to the highest energy investments in BRI. Other pipelines include those with Russia, Kazakhstan and Myanmar. The [Sino-Iranian 25-year Strategic Cooperation Agreement](https://thediplomat.com/2021/03/whats-in-the-china-iran-strategic-cooperation-agreement/) also entails billions of investments into Iran's oil and gas industries, plausibly in return for heavily discounted hydrocarbons. However, excessive reliance on crude oil is undesirable and China has been pivoting to renewables for energy self-sufficiency and less environmental pollution.
 
 ![]({{site.baseurl}}/assets/img/BRI-graphic.jpeg)*Belt and Road Initiative energy investments by country. [Source: IIGF BRI Green Center]*
-
----
 
 ## China is poised to be the "Saudi Arabia of Renewables".
 
