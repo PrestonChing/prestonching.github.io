@@ -3,10 +3,10 @@ layout: post
 title:  Development Economics Meets Smart Contracts
 image:  '/assets/img/dev_econ_blockchain.jpeg'
 caption: '[Image Source: World Bank, NEUDC 2021 Word Cloud]'
-tags:   economics blockchain
+tags:   economics blockchain social
 ---
 
-*This is the second article of a 3-part series on my reflections from Smart Contract Summit 2021. Check out the <a href="{{site.baseurl}}/2021/08/20/chainlink-blockchain/">first</a> article.*
+*This is the second article of a 3-part series on my reflections from Smart Contract Summit 2021. Check out the <a href="{{site.baseurl}}/2021/08/20/chainlink-blockchain/">first</a> and <a href="{{site.baseurl}}/2021/09/23/ledger-of-record/">third</a> articles.*
 
 ---
 
