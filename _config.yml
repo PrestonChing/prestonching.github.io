@@ -39,7 +39,7 @@ plugins:
   - jekyll/tagging
   - jekyll-paginate
 
-paginate: 3
+paginate: 5
 
 # Pages Path
 defaults:
