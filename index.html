@@ -4,7 +4,7 @@ layout: default
 
 <div class="container">
   <!-- begin author -->
-  <section class="author" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="700">
+  <section class="author" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="300">
     <div class="author__inner">
   <img src="{{site.baseurl}}{{site.author.image}}" alt="{{site.author.name}}" class="author__img">
       <h1 class="author__job">{{ site.author.job }}</h1>
@@ -22,7 +22,7 @@ layout: default
 <div class="container">
   {% if site.posts.size > 0 %}
     {% for post in paginator.posts %}
-    <div class="article" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="800">
+    <div class="article" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="300">
       {% if post.image %}
       <div class="article__image-box">
         <a href="{{post.url | prepend: site.baseurl}}" class="article__image" style="background-image: url({{site.baseurl}}{{post.image}})"></a>
