@@ -14,7 +14,7 @@ The world's information supply chain is broken. [Balaji Srinivasan](https://bala
 
 > Misinformation is defined as false or inaccurate information, regardless of any intention to mislead. Disinformation is a subset of misinformation, with the added attribute of deliberate and at times, nefarious motivations.
 
-Many have pinned the blamed on social media platforms, the central medium of information exchange in the Digital Age. While Facebook's efforts to stymie the proliferation of misinformation with human fact-checkers, algorithms and the newly minted Oversight Board are laudable, there needs to be a [greater tripartite collaboration among governments, private industry and consumers](https://www.brookings.edu/research/how-to-combat-fake-news-and-disinformation/). Notably, the proposal of a **blockchain-based ledger of record has the potential to radically revamp our information supply chain**.
+Many have pinned the blame on social media platforms, the central medium of information exchange in the Digital Age. While Facebook's efforts to stymie the proliferation of misinformation with human fact-checkers, algorithms and the newly minted Oversight Board are laudable, there needs to be a [greater tripartite collaboration among governments, private industry and consumers](https://www.brookings.edu/research/how-to-combat-fake-news-and-disinformation/). Notably, the proposal of a **blockchain-based ledger of record has the potential to radically revamp our information supply chain**.
 
 ![]({{site.baseurl}}/assets/img/Balaji_info_chain.png)*Information Supply Chain. [Source: Balaji Srinivasan, SmartCon 2021]*
 
