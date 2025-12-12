@@ -4,6 +4,13 @@ title: CV
 permalink: /cv/
 ---
 
+## Professional Experience
+
+Jan 2024 - Present: **Monetary Authority of Singapore**, Sustainability Group
+Nov 2021 - Jan 2024: **National Research Foundation, Prime Minister's Office**, Strategy and Manpower
+
+---
+
 ## Education
   
 **Harvard University**, Cambridge, USA  
@@ -41,7 +48,7 @@ Ching, P.Y.J, Tan, I. & Kowshik, M. (2013). **Investigation of the Affinity of A
 
 ---
 
-## Professional Experience
+## Professional Experience (Pre-Graduation)
 
 2021: **Harvard-Salesforce EconCS Group**, Cambridge, USA  
 2021: **Harvard Teamcore Group**, Cambridge, USA  
