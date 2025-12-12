@@ -5,7 +5,7 @@ permalink: /about/
 image: '/assets/img/About_Me.jpg'
 ---
 
-My name is Preston Ching. I am currently a civil servant at Singapore's National Research Foundation (Prime Minister's Office).
+My name is Preston Ching. I am currently a civil servant at the Monetary Authority of Singapore (Central Bank).
 
 I am passionate about the interface between economics and artificial intelligence. Both fields generate profound ripples in our society and stand to leverage synergies with increasing communication. AI applied to macroeconomics brings us closer to theoretically-sound and well-predictive models for policy-makers. Demands for tractability in econometrics push AI models towards greater interpretability and algorithmic fairness. Along with cross-discipline insights (from philosophy, sociology and psychology), the Econ x AI domain serves to better inform and implement policies for tackling inequality and climate change amongst others. Check out my research <a href="{{site.baseurl}}/cv/">here</a>. 
 
