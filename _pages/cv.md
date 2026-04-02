@@ -6,7 +6,9 @@ permalink: /cv/
 
 ## Professional Experience
 
-Jan 2024 - Present: **Monetary Authority of Singapore**, Sustainability Group
+Feb 2026 - Present: **Ministry of Finance**, Land and Infrastructure Programmes
+
+Jan 2024 - Feb 2026: **Monetary Authority of Singapore**, Sustainability Group
 
 Nov 2021 - Jan 2024: **National Research Foundation, Prime Minister's Office**, Strategy and Manpower
 
